@@ -1,0 +1,39 @@
+{
+  "murid": [
+    {
+      "nama": "Yann",
+      "gender": "Perempuan",
+      "alamat": "Lorem ipsum dolor, sit amet consectetur adipisicing.",
+      "kelas": "XI RPL A",
+      "id": 1
+    },
+    {
+      "nama": "Devon",
+      "gender": "Laki-Laki",
+      "alamat": "jln. G Loli",
+      "kelas": "XI RPL A",
+      "id": 2
+    },
+    {
+      "nama": "Dai Jumana",
+      "gender": "Laki-Laki",
+      "alamat": "Jl. Loli",
+      "kelas": "XII RPLA",
+      "id": 4
+    },
+    {
+      "nama": "Dadang",
+      "gender": "Perempuan",
+      "alamat": "Jl akasia  no 45",
+      "kelas": "XI TKR B",
+      "id": 5
+    },
+    {
+      "nama": "Dadang",
+      "gender": "Perempuan",
+      "alamat": "Jl akasia  no 45",
+      "kelas": "XI TKR B",
+      "id": 6
+    }
+  ]
+}
